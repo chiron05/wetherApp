@@ -1,0 +1,14 @@
+{
+  "name": "whetherappnodejs",
+  "version": "1.0.0",
+  "description": "wether Nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sarthak naik",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
